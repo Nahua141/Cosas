@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1589335336 source:c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+	"comida.h"
+	"almuerzo.h"
+
+1589332333 source:c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\empleado.c
+	"empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataWarehouse.h"
+
+1589324930 c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\datawarehouse.h
+
+1589318895 c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\empleado.h
+	"sector.h"
+
+1589297600 c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\sector.h
+
+1589297689 source:c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\sector.c
+	"sector.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589324651 source:c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+
+1589324544 c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\informes.h
+
+1589335336 source:c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+
+1589326457 source:c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\comida.c
+	"comida.h"
+
+1589325332 c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\comida.h
+
+1589335682 c:\users\nahue\onedrive\escritorio\proyecto nuevo\estructuras1 27-4\almuerzo.h
+	"empleado.h"
+	"sector.h"
+	"comida.h"
+
